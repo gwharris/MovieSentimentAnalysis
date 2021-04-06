@@ -5,6 +5,7 @@ Final project for CSCI-UA.0480 Natural Language Processing
 ## Contents
 
 * [Contributors](#contributors)
+* [Overview](#overview)
 
 ## Contributors:
 * Graham Harris
