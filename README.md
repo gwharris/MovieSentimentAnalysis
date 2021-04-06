@@ -8,3 +8,4 @@
 </ul>
 
 ## Overview
+Data Set: Stanford University [Deeply Moving: Deep Learning for Sentiment Analysis](https://nlp.stanford.edu/sentiment/index.html)
