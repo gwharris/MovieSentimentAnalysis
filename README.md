@@ -14,4 +14,4 @@ Final project for CSCI-UA.0480 Natural Language Processing
 * Jong Heon Han
 
 ## Overview
-Data Set: Stanford University [Deeply Moving: Deep Learning for Sentiment Analysis](https://nlp.stanford.edu/sentiment/index.html)
+**Data Set:** Stanford University [Deeply Moving: Deep Learning for Sentiment Analysis](https://nlp.stanford.edu/sentiment/index.html)
