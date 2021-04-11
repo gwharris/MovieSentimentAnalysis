@@ -8,7 +8,7 @@ Final project for CSCI-UA.0480 Natural Language Processing
 * [Overview](#overview)
 
 ## Contributors:
-* Graham Harris
+* [Graham Harris](https://github.com/gwharris)
 * Judy Zheng
 * Christine Ma
 * Jong Heon Han
