@@ -1,0 +1,45 @@
+Lemmatized: Accuracy
+
+Iteration: 1, train: 0.935, test: 0.897
+Iteration: 2, train: 0.931, test: 0.891
+Iteration: 3, train: 0.932, test: 0.890
+Iteration: 4, train: 0.933, test: 0.891
+Iteration: 5, train: 0.933, test: 0.891
+Iteration: 6, train: 0.933, test: 0.891
+Iteration: 7, train: 0.933, test: 0.891
+Iteration: 8, train: 0.933, test: 0.891
+Iteration: 9, train: 0.933, test: 0.891
+Iteration: 10, train: 0.933, test: 0.891
+Iteration: 11, train: 0.933, test: 0.891
+Iteration: 12, train: 0.933, test: 0.891
+Iteration: 13, train: 0.933, test: 0.891
+Iteration: 14, train: 0.933, test: 0.891
+Iteration: 15, train: 0.933, test: 0.891
+Iteration: 16, train: 0.933, test: 0.891
+Iteration: 17, train: 0.933, test: 0.891
+Iteration: 18, train: 0.933, test: 0.891
+Iteration: 19, train: 0.933, test: 0.891
+Iteration: 20, train: 0.933, test: 0.891
+
+Lemmatized: Loss
+
+Iteration: 1, train: 2.260, test: 3.558
+Iteration: 2, train: 2.372, test: 3.748
+Iteration: 3, train: 2.344, test: 3.782
+Iteration: 4, train: 2.299, test: 3.756
+Iteration: 5, train: 2.301, test: 3.748
+Iteration: 6, train: 2.301, test: 3.748
+Iteration: 7, train: 2.301, test: 3.748
+Iteration: 8, train: 2.301, test: 3.748
+Iteration: 9, train: 2.301, test: 3.748
+Iteration: 10, train: 2.301, test: 3.748
+Iteration: 11, train: 2.301, test: 3.748
+Iteration: 12, train: 2.301, test: 3.748
+Iteration: 13, train: 2.301, test: 3.748
+Iteration: 14, train: 2.301, test: 3.748
+Iteration: 15, train: 2.301, test: 3.748
+Iteration: 16, train: 2.301, test: 3.748
+Iteration: 17, train: 2.301, test: 3.748
+Iteration: 18, train: 2.301, test: 3.748
+Iteration: 19, train: 2.301, test: 3.748
+Iteration: 20, train: 2.301, test: 3.748
