@@ -22,7 +22,7 @@ TODO
 ## Data Set
 The data set consists of [50,000 IMDb movie reviews](https://ai.stanford.edu/~amaas/data/sentiment/) (Stanford University) divided into a validation set, test set, and training set. 
 
-The validation set contains 5,000 reviews with balanced sentiment (both positive and negative), the training set contains 20,000 balanced reviews, and the test set contains 25,000 balanced reviews. Also included is a set of all 50,000 unlabeled balanced reviews.
+The validation set contains 5,000 reviews with randomly selected sentiments (both positive and negative) from a corpus of 25,000 balanced data sentiments, the training set contains the 20,000 remaining reviews, and the test set contains 25,000 balanced reviews. Also included is a set of all 50,000 unlabeled balanced reviews.
 
 ## Experiment
-TODO
+TODO->idea: understand how different tokens have a role in sentiment analysis using a logistic regression model. The text tokens were convereted into a numerical value of counts within the whole document, and then converted into a tf-idf weight. ...to be continnued
