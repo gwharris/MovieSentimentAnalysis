@@ -10,7 +10,7 @@
 ## Contributors
 * [Graham Harris](https://github.com/gwharris)
 * [Judy Zheng](https://github.com/IamJudyZ)
-* [Christine Ma](https://github.com/cm4927)
+* [Christine Ma](https://github.com/christine-ma)
 * [Jong Heon Han](https://github.com/hjh527)
 
 # Contents
