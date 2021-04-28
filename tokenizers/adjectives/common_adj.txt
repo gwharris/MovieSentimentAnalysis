@@ -1,0 +1,10 @@
+The ten most common adjectives for the most incorrect reviews:
+So the most common adjectives fit their predicted classification, but not their true sentiment rating.
+
+Predicted: 1 Answer Key: 0
+{'great': 64, 'good': 59, 'best': 34, 'many': 27, 'excellent': 25, 'more': 25, 'other': 23, 'most': 22, 'true': 21, 'such': 20}
+
+Predicted: 0 Answer Key: 1
+{'bad': 100, 'good': 44, 'other': 34, 'funny': 28, 'many': 23, 'worst': 21, 'better': 20, 'only': 19, 'much': 18, 'least': 18}
+
+Similarities: good, many, other
