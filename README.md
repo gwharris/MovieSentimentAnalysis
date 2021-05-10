@@ -1,6 +1,6 @@
 # Movie Sentiment Analysis Project
 
-- [Contributors]
+- [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 - [Abstract](#abstract)
 - [Data Set](#data-set)
