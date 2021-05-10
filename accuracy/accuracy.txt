@@ -1,0 +1,19 @@
+Tokenization:  ss_acc.csv
+Number of incorrect output:  2956
+Accuracy: 88.176 %
+
+Tokenization:  lc_acc.csv
+Number of incorrect output:  3046
+Accuracy: 87.816 %
+
+Tokenization:  no_punc_acc.csv
+Number of incorrect output:  3026
+Accuracy: 87.896 %
+
+Tokenization:  adj_acc.csv
+Number of incorrect output:  4300
+Accuracy: 82.8 %
+
+Tokenization:  lem_acc.csv
+Number of incorrect output:  3030
+Accuracy: 87.88 %
