@@ -1,5 +1,6 @@
 # Movie Sentiment Analysis Project
 
+## Contents
 - [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
 - [Abstract](#abstract)
@@ -11,7 +12,7 @@
 * [Christine Ma](https://github.com/christine-ma)
 * [Jong Heon Han](https://github.com/hjh527)
 
-# Acknowledgements
+## Acknowledgements
 Final project for NYU's Spring 2021 undergraduate course CSCI-UA.0480 Natural Language Processing with Prof. Adam Meyers. Special thanks to Tin B. Luu for advising the team!
 
 ## Abstract
